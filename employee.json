@@ -1,0 +1,27 @@
+/* [ */
+/*     { */
+/*         "employee": { */
+/*             "firstName": "Lokesh", */
+/*             "lastName": "Gupta", */
+/*             "website": "howtodoinjava.com" */
+/*         } */
+/*     }, */
+/*     { */
+/*         "employee": { */
+/*             "firstName": "Brian", */
+/*             "lastName": "Schultz", */
+/*             "website": "example.com" */
+/*         } */
+/*     } */
+/* ] */
+
+
+{
+    "firstName": "crunchify.com",
+    "lastName": "App Shah",
+    "Company List": [
+        "Compnay: eBay",
+        "Compnay: Paypal",
+        "Compnay: Google"
+    ]
+}
